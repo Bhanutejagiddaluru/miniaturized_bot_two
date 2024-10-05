@@ -49,7 +49,7 @@ Contributions to the ATR Turtle Bot project are welcome. Whether it's improving 
 This project is released under the MIT License. For more details, see the `LICENSE` file in the repository.
 
 ## Contact Information
-For more information, collaboration, or queries, please contact [Your Contact Information].
+For more information, collaboration, or queries, please contact [giddalurubhanuteja@gmail.com].
 
 ## Acknowledgements
 Special thanks to the contributors, supporters, and everyone involved in bringing this project to life.
