@@ -32,11 +32,12 @@ The primary goal of this project is to create a miniaturized version of a turtle
 - Code written in Python and C for controlling the robot's hardware, managing sensor data, and implementing navigation algorithms.
 
 ## Schematic Diagram
+
 ![ATR_bot_V2.0](Turtle_bot_schematics.jpg)
+
 The **ATR_bot_V2.0.pdf** provides a detailed schematic diagram, showing the wiring and connections of all components in the robot. This document is crucial for understanding how the different components are interconnected.
 
-- For the PCB gerber file - [Download](Gerber_ATR_turtle_bot_PICO_V2.0_PCB_ATR_turtle_bot_PICO_V2.0_2024-10-04.zip
-)
+- For the PCB gerber file - [Download](Gerber_ATR_turtle_bot_PICO_V2.0_PCB_ATR_turtle_bot_PICO_V2.0_2024-10-04.zip)
 
 
 ### Gallery
