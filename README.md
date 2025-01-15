@@ -39,16 +39,16 @@ The **ATR_bot_V2.0.pdf** provides a detailed schematic diagram, showing the wiri
 Here are some images showcasing the robot, including close-up views, assembly, and usage:
 
 - **Side View of miniaturized_bot_two**
-  ![Top View](IMG_0527.DNG)
-
-- **Miniaturized_bot_two is lesser then Credit card**
-  ![Top View](Mini_bot_side2.jpg)
+  ![Top View](Front_view.jpg)
 
 - **Detailed View of miniaturized_bot_two**
   ![Detailed View](top_view.JPG)
 
 - **Multi Bots assembled together**
   ![Multi Bots](Multi_bots.JPG)
+
+- **Miniaturized_bot_two is lesser then Credit card**
+  ![Top View](Mini_bot_side2.jpg)
 
 ### Setup Instructions
 
