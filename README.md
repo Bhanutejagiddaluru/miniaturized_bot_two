@@ -3,6 +3,8 @@
 ## Introduction
 The **miniaturized_bot_two** project is focused on building a compact and educational autonomous robot. This robot is specifically designed for educational and research purposes, students and researchers who want to learn about robotics, navigation, and sensor integration. The robot will be an excellent starting point for exploring basic concepts in robotics and implementing algorithms for autonomous navigation, obstacle detection, and data processing.
 
+![Multi Bots1](Mini_bot_side1.jpg)
+
 ## Project Goals
 The primary goal of this project is to create a miniaturized version of a turtle bot, making it suitable for educational purposes, especially for learning robotics. The objectives for this project are:
 
@@ -30,32 +32,23 @@ The primary goal of this project is to create a miniaturized version of a turtle
 - Code written in Python and C for controlling the robot's hardware, managing sensor data, and implementing navigation algorithms.
 
 ## Schematic Diagram
-![ATR_bot_V2.0](ATR_bot_V2.0.pdf)
+![ATR_bot_V2.0](Turtle_bot_schematics.jpg)
 The **ATR_bot_V2.0.pdf** provides a detailed schematic diagram, showing the wiring and connections of all components in the robot. This document is crucial for understanding how the different components are interconnected.
 
 ### Gallery
 Here are some images showcasing the robot, including close-up views, assembly, and usage:
 
 - **Side View of miniaturized_bot_two**
-  ![Side View](IMG_0178.JPG)
-
-- **Top View of miniaturized_bot_two**
   ![Top View](IMG_0527.DNG)
 
-- **Multi Bots assembled together**
-  ![Multi Bots](IMG_0530.HEIC)
+- **Miniaturized_bot_two is lesser then Credit card**
+  ![Top View](Mini_bot_side2.jpg)
 
 - **Detailed View of miniaturized_bot_two**
-  ![Detailed View](IMG_0536.HEIC)
+  ![Detailed View](top_view.jpg)
 
-- **Close-up Image showing components**
-  ![Close-up](Multi_bots.JPG)
-
-- **Another close-up showing assembly process**
-  ![Assembly Process](side_view.JPG)
-
-- **Robot in action**
-  ![Robot in Action](top_view.JPG)
+- **Multi Bots assembled together**
+  ![Multi Bots](Multi_bots.JPG)
 
 ### Setup Instructions
 
