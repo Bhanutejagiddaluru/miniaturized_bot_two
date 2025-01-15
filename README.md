@@ -46,19 +46,19 @@ Here are some images showcasing the robot, including close-up views, assembly, a
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 10px;">
   <div>
     <strong>Front View of miniaturized_bot_two</strong><br>
-    <img src="Front_view.jpg" alt="Front View" style="width: 80%; height: auto;">
+        <img src="Front_view.jpg" alt="Front View" style="width: 60%; height: auto;">
   </div>
   <div>
     <strong>Detailed View of miniaturized_bot_two</strong><br>
-    <img src="top_view.JPG" alt="Detailed View" style="width: 80%; height: auto;">
+        <img src="top_view.JPG" alt="Detailed View" style="width: 80%; height: auto;">
   </div>
   <div>
     <strong>Multi Bots assembled together</strong><br>
-    <img src="Multi_bots.JPG" alt="Multi Bots" style="width: 80%; height: auto;">
+        <img src="Multi_bots.JPG" alt="Multi Bots" style="width: 80%; height: auto;">
   </div>
   <div>
     <strong>Miniaturized_bot_two is lesser than a Credit Card</strong><br>
-    <img src="Mini_bot_side2.jpg" alt="Miniaturized Bot" style="width: 80%; height: auto;">
+        <img src="Mini_bot_side2.jpg" alt="Miniaturized Bot" style="width: 80%; height: auto;">
   </div>
 </div>
 
