@@ -1,7 +1,7 @@
 # miniaturized_bot_two
 
 ## Introduction
-The **miniaturized_bot_two** project is focused on building a compact and educational autonomous robot. This robot is specifically designed for students and researchers who want to learn about robotics, navigation, and sensor integration. The robot will be an excellent starting point for exploring basic concepts in robotics and implementing algorithms for autonomous navigation, obstacle detection, and data processing.
+The **miniaturized_bot_two** project is focused on building a compact and educational autonomous robot. This robot is specifically designed for educational and research purposes, students and researchers who want to learn about robotics, navigation, and sensor integration. The robot will be an excellent starting point for exploring basic concepts in robotics and implementing algorithms for autonomous navigation, obstacle detection, and data processing.
 
 ## Project Goals
 The primary goal of this project is to create a miniaturized version of a turtle bot, making it suitable for educational purposes, especially for learning robotics. The objectives for this project are:
@@ -25,21 +25,37 @@ The primary goal of this project is to create a miniaturized version of a turtle
 - **LEDs:** Used for visual feedback and alerts.
 
 ### Software
-The robot’s software is developed using Python and C programming languages. The software controls the robot’s sensors, processes sensor data, and executes algorithms for navigation and movement.
+- Arduino IDE "Check out the Presentation for Arduino Version" [Presentation](Autonomus_bot_basic_codes.pptx)
+- The robot’s software is developed using Python and C programming languages. 
+- Code written in Python and C for controlling the robot's hardware, managing sensor data, and implementing navigation algorithms.
 
 ## Schematic Diagram
+![ATR_bot_V2.0](ATR_bot_V2.0.pdf)
 The **ATR_bot_V2.0.pdf** provides a detailed schematic diagram, showing the wiring and connections of all components in the robot. This document is crucial for understanding how the different components are interconnected.
 
 ### Gallery
 Here are some images showcasing the robot, including close-up views, assembly, and usage:
 
-- **IMG_0178.JPG**: Side view of the miniaturized bot.
-- **IMG_0527.DNG**: Top view of the robot's components.
-- **IMG_0530.HEIC**: Detailed view of the assembly process.
-- **IMG_0536.HEIC**: Another view of the assembled robot.
-- **Multi_bots.JPG**: A group of miniaturized bots assembled together.
-- **side_view.JPG**: Close-up of the side view of the robot.
-- **top_view.JPG**: A top-down view of the robot for better understanding of the component layout.
+- **Side View of miniaturized_bot_two**
+  ![Side View](IMG_0178.JPG)
+
+- **Top View of miniaturized_bot_two**
+  ![Top View](IMG_0527.DNG)
+
+- **Multi Bots assembled together**
+  ![Multi Bots](IMG_0530.HEIC)
+
+- **Detailed View of miniaturized_bot_two**
+  ![Detailed View](IMG_0536.HEIC)
+
+- **Close-up Image showing components**
+  ![Close-up](Multi_bots.JPG)
+
+- **Another close-up showing assembly process**
+  ![Assembly Process](side_view.JPG)
+
+- **Robot in action**
+  ![Robot in Action](top_view.JPG)
 
 ### Setup Instructions
 
