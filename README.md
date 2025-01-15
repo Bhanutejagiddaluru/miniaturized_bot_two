@@ -43,7 +43,7 @@ The **ATR_bot_V2.0.pdf** provides a detailed schematic diagram, showing the wiri
 ### Gallery
 Here are some images showcasing the robot, including close-up views, assembly, and usage:
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 100px;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 10px;">
   <div>
     <strong>Front View of miniaturized_bot_two</strong><br>
     <img src="Front_view.jpg" alt="Front View" style="width: 80%; height: auto;">
