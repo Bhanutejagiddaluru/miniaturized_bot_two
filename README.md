@@ -45,7 +45,7 @@ Here are some images showcasing the robot, including close-up views, assembly, a
   ![Top View](Mini_bot_side2.jpg)
 
 - **Detailed View of miniaturized_bot_two**
-  ![Detailed View](top_view.jpg)
+  ![Detailed View](top_view.JPG)
 
 - **Multi Bots assembled together**
   ![Multi Bots](Multi_bots.JPG)
