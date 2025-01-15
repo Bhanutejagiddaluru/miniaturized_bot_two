@@ -1,55 +1,82 @@
 # miniaturized_bot_two
 
 ## Introduction
-This project involves the development of the miniaturized_bot_two, an autonomous robot designed for educational and research purposes. The miniaturized_bot_two is equipped with a variety of sensors and modules to facilitate learning and experimentation in robotics.
+The **miniaturized_bot_two** project is focused on building a compact and educational autonomous robot. This robot is specifically designed for students and researchers who want to learn about robotics, navigation, and sensor integration. The robot will be an excellent starting point for exploring basic concepts in robotics and implementing algorithms for autonomous navigation, obstacle detection, and data processing.
+
+## Project Goals
+The primary goal of this project is to create a miniaturized version of a turtle bot, making it suitable for educational purposes, especially for learning robotics. The objectives for this project are:
+
+1. **Goal 1:** To build a compact autonomous robot with the ability to detect obstacles and navigate.
+2. **Goal 2:** To incorporate multiple sensors for accurate data collection and analysis (LIDAR, IMU, IR sensors).
+3. **Goal 3:** To enable autonomous navigation and obstacle avoidance based on sensor inputs.
+4. **Goal 4:** To integrate servo motors for precise mechanical movements.
+5. **Goal 5:** To design and assemble the robot's structure, focusing on its compact size and efficiency.
 
 ## Project Components
-### Hardware
-- **Motor Driver Module:** Controls the left and right motors for movement.
-- **PICO:** Central microcontroller unit that orchestrates sensor inputs and motor outputs.
-- **LIDAR:** Used for obstacle detection and navigation.
-- **IMU (Inertial Measurement Unit):** Provides data on the robot's orientation and acceleration.
-- **IR Sensors:** Allow for obstacle avoidance and edge detection.
-- **Servo Motors:** Enable precise control over mechanical movements.
-- **OLED Display:** Shows real-time status and information.
-- **LEDs:** Indicate status and alerts.
+
+### Hardware Components
+- **Motor Driver Module:** Responsible for controlling the movement of the left and right motors.
+- **PICO Microcontroller:** The central unit that processes sensor inputs and controls motors.
+- **LIDAR (Light Detection and Ranging):** Used for precise obstacle detection and mapping.
+- **IMU (Inertial Measurement Unit):** Measures the robot's orientation and acceleration.
+- **IR Sensors:** Enable obstacle avoidance and edge detection.
+- **Servo Motors:** Used for mechanical precision in tasks such as arm movements.
+- **OLED Display:** Provides real-time information and status updates.
+- **LEDs:** Used for visual feedback and alerts.
 
 ### Software
-- Code written in Python and C for controlling the robot's hardware, managing sensor data, and implementing navigation algorithms.
+The robot’s software is developed using Python and C programming languages. The software controls the robot’s sensors, processes sensor data, and executes algorithms for navigation and movement.
 
 ## Schematic Diagram
-The schematic diagram included in the `ATR_bot_V2.0.pdf` provides a detailed view of all the electronic components and their connections. This diagram is essential for understanding the wiring and setup required to replicate or modify the hardware.
+The **ATR_bot_V2.0.pdf** provides a detailed schematic diagram, showing the wiring and connections of all components in the robot. This document is crucial for understanding how the different components are interconnected.
 
-## Gallery
-Images and videos in the repository showcase the robot in action, its assembly, and various components:
-- `IMG_0178.JPG`, `IMG_0527.DNG`, and other images provide views of the robot from different angles.
-- `IMG_1043.mov` and `IMG_1066.mov` are motion videos demonstrating the robot's capabilities.
+### Gallery
+Here are some images showcasing the robot, including close-up views, assembly, and usage:
 
-## Setup Instructions
-1. **Assembly:** Refer to the schematic diagram for detailed wiring and component assembly.
-2. **Software Installation:**
-   - Flash the provided code onto the PICO using any standard Python IDE that supports microcontroller programming.
-   - Ensure all library dependencies are satisfied.
-3. **Testing:**
-   - Power on the robot and perform initial tests to check sensor readings and motor responses.
+- **IMG_0178.JPG**: Side view of the miniaturized bot.
+- **IMG_0527.DNG**: Top view of the robot's components.
+- **IMG_0530.HEIC**: Detailed view of the assembly process.
+- **IMG_0536.HEIC**: Another view of the assembled robot.
+- **Multi_bots.JPG**: A group of miniaturized bots assembled together.
+- **side_view.JPG**: Close-up of the side view of the robot.
+- **top_view.JPG**: A top-down view of the robot for better understanding of the component layout.
+
+### Setup Instructions
+
+#### Assembly
+1. **Motor and Driver Module:** Attach the motor driver module to the PICO according to the schematic.
+2. **Sensors:** Connect the IMU, IR sensors, and LIDAR to the corresponding GPIO pins on the PICO.
+3. **OLED Display and LEDs:** Connect the OLED and LEDs to show the status of the robot and for debugging.
+
+#### Software Installation
+1. Flash the code onto the **PICO** using a Python IDE that supports microcontroller programming.
+2. Ensure all required libraries for the sensors and OLED display are installed.
+3. Implement the navigation algorithm for autonomous movement using sensor inputs.
+
+#### Testing
+1. Power on the robot and check the sensor readings on the OLED display.
+2. Perform initial tests to ensure that the motors respond correctly to control inputs and that the robot can avoid obstacles.
 
 ## Usage
-- Power up the robot.
-- Use the push buttons to initiate different modes (e.g., autonomous navigation, follow-the-leader).
-- The OLED display will provide real-time feedback on the robot's status and mode.
+- **Powering the Robot:** Power on the miniaturized bot and observe the OLED display for initialization.
+- **Modes:** Use the push buttons to toggle between different operation modes (e.g., autonomous navigation, edge detection).
+- **Status Indicators:** The OLED display will show status messages related to the robot's operation.
 
 ## Troubleshooting
-- **Motor Issues:** Check connections as per the schematic if motors do not respond.
-- **Sensor Data:** Ensure no physical blockage on sensors if readings are erratic.
+- **Motors Not Responding:** Double-check motor wiring and the connection to the PICO.
+- **Sensor Issues:** Ensure there are no obstructions in the path of the sensors, and check their connections to the PICO.
 
 ## Contributions
-Contributions to the ATR Turtle Bot project are welcome. Whether it's improving the codebase, designing new hardware add-ons, or providing better documentation, your input is valued.
+This project is open for collaboration. If you would like to contribute, you can help with:
+- Writing more efficient code.
+- Designing new hardware features.
+- Creating better documentation.
 
 ## License
-This project is released under the MIT License. For more details, see the `LICENSE` file in the repository.
+This project is released under the MIT License. For more details, refer to the **LICENSE** file in the repository.
 
 ## Contact Information
-For more information, collaboration, or queries, please contact [giddalurubhanuteja@gmail.com].
+For more information or collaboration inquiries, please contact **giddalurubhanuteja@gmail.com**.
 
 ## Acknowledgements
-Special thanks to the contributors, supporters, and everyone involved in bringing this project to life.
+A special thanks to everyone involved in this project, from contributing code to assisting in the design and testing phases.
