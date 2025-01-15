@@ -35,6 +35,10 @@ The primary goal of this project is to create a miniaturized version of a turtle
 ![ATR_bot_V2.0](Turtle_bot_schematics.jpg)
 The **ATR_bot_V2.0.pdf** provides a detailed schematic diagram, showing the wiring and connections of all components in the robot. This document is crucial for understanding how the different components are interconnected.
 
+- For the PCB gerber file - [Download](Gerber_ATR_turtle_bot_PICO_V2.0_PCB_ATR_turtle_bot_PICO_V2.0_2024-10-04.zip
+)
+
+
 ### Gallery
 Here are some images showcasing the robot, including close-up views, assembly, and usage:
 
@@ -86,6 +90,3 @@ This project is released under the MIT License. For more details, refer to the *
 
 ## Contact Information
 For more information or collaboration inquiries, please contact **giddalurubhanuteja@gmail.com**.
-
-## Acknowledgements
-A special thanks to everyone involved in this project, from contributing code to assisting in the design and testing phases.
