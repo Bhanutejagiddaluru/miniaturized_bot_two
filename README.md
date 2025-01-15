@@ -38,7 +38,7 @@ The **ATR_bot_V2.0.pdf** provides a detailed schematic diagram, showing the wiri
 ### Gallery
 Here are some images showcasing the robot, including close-up views, assembly, and usage:
 
-- **Side View of miniaturized_bot_two**
+- **Front View of miniaturized_bot_two**
   ![Top View](Front_view.jpg)
 
 - **Detailed View of miniaturized_bot_two**
